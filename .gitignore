@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.idea/
+
+# Generated outputs
+output/
+results/
+*.avi
+*.mp4
+
+data/
+models/*.weights
+*.h5
+*.pt
+*.onnx
