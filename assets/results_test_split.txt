@@ -1,0 +1,7 @@
+precision 0.842  recall 0.872  F1 0.857  (2739 TP / 513 FP / 401 FN)  7.5 ms/img
+  open       recall 0.853  (n=659)
+  short      recall 0.910  (n=478)
+  mousebite  recall 0.751  (n=586)
+  spur       recall 0.921  (n=483)
+  copper     recall 0.978  (n=464)
+  pin-hole   recall 0.857  (n=470)
