@@ -22,9 +22,7 @@ statistical process control (SPC) chart.
 7. [Using the web demo](#using-the-web-demo)
 8. [Configuration reference](#configuration-reference)
 9. [Testing](#testing)
-10. [Troubleshooting](#troubleshooting)
-11. [Limitations and future work](#limitations-and-future-work)
-12. [Dataset and credits](#dataset-and-credits)
+10. [Dataset and credits](#dataset-and-credits)
 
 ---
 
